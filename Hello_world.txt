@@ -1,1 +1,3 @@
 Hi!Hope to learn new things and many more and Priority is Git
+
+its also important to learn Docker
