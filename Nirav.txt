@@ -1,3 +1,6 @@
 Adding new file to newb
 lets add some data
+<<<<<<< HEAD
 lets continue with same branch
+=======
+>>>>>>> eecced71b57b3c2c81ecafdfaf960c08977799a8
