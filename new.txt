@@ -2,7 +2,14 @@ Creating new file
 Verify and implement
 Keep on testing
 <<<<<<< HEAD
+<<<<<<< HEAD
 Keep on working and verifying and testing further after merge
 =======
 Keep on working and verifying
 >>>>>>> d480eb7 (new file)
+=======
+Keep on working and verifying
+=======
+Keep on working and verifying and testing further after merge
+>>>>>>> 1745f53 (new file)
+>>>>>>> 7c97490 (Update Nirav.txt)
