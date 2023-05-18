@@ -1,1 +1,1 @@
-Adding new file to stash!!! from git
+Adding new file to stash!!! from git adding data
