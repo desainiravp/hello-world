@@ -3,6 +3,7 @@ Verify and implement
 Keep on testing
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Keep on working and verifying and testing further after merge
 =======
 Keep on working and verifying
@@ -13,3 +14,6 @@ Keep on working and verifying
 Keep on working and verifying and testing further after merge
 >>>>>>> 1745f53 (new file)
 >>>>>>> 7c97490 (Update Nirav.txt)
+=======
+Keep on working and verifying
+>>>>>>> 4f185db (new file)

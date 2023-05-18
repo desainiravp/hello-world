@@ -1,3 +1,6 @@
 Adding new file to newb
 lets add some data
+<<<<<<< HEAD
 lets continue with same branch
+=======
+>>>>>>> eecced7 (Update Nirav.txt)
