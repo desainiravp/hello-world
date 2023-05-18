@@ -1,4 +1,8 @@
 Creating new file 
 Verify and implement
 Keep on testing
+<<<<<<< HEAD
 Keep on working and verifying and testing further after merge
+=======
+Keep on working and verifying
+>>>>>>> d480eb7 (new file)
