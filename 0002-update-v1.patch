@@ -1,0 +1,19 @@
+From 8a0792ab8b870f351de8cf11e0ad7ff6449c19ef Mon Sep 17 00:00:00 2001
+From: desainiravp <125334778+desainiravp@users.noreply.github.com>
+Date: Thu, 18 May 2023 11:35:55 +0530
+Subject: [PATCH 2/2] update v1
+
+---
+ File.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/File.txt b/File.txt
+index 9e47efe..93ab39a 100644
+--- a/File.txt
++++ b/File.txt
+@@ -1 +1 @@
+-Adding new file to stash!!!
++Adding new file to stash!!! from git
+-- 
+2.40.1.windows.1
+
